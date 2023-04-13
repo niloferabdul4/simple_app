@@ -1,0 +1,14 @@
+
+.logout_btn{
+    width:20%;
+    background-color: #2874f0;
+    color:white;
+    height:40px;
+    border-radius: 6px;
+    font-size: 1.05rem;
+    margin:18px 0px;
+    padding: 4px;
+    cursor: pointer;
+    border:none;
+ }
+
